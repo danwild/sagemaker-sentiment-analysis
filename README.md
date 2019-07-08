@@ -1,2 +1,2 @@
 # sagemaker-sentiment-analysis
-A custom PyTorch RNN Sentiment Analysis model deployed with AWS SageMaker
+A PyTorch RNN model for Sentiment Analysis deployed with AWS SageMaker.
